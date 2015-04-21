@@ -4,3 +4,18 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
+
+$font-stack: 'Arvo', sans-serif;
+$main-color: #FFFFFF;
+
+body {
+	background: #57B287;
+}
+h1 {
+	color: $main-color;
+	font-size: 100px;
+	text-align: center;
+	margin-top: 100px;
+	font-family: $font-stack;
+	text-shadow: 2px 2px 2px grey;
+}
