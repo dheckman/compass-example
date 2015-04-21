@@ -1,1 +1,1 @@
-# compass-example
+# Concierge 1 Walkthrough
